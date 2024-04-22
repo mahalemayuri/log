@@ -1,0 +1,2 @@
+# log
+THIS IS MY FIRST PROGRAM
